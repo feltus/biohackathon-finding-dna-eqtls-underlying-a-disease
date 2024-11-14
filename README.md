@@ -23,10 +23,13 @@ Zoom Location: https://clemson.zoom.us/j/9452064261
 
 # Hackathon Objectives
 
-Find genes underlying a human disease.
+* Find seed genes underlying a human disease.
+* Build a PPI network around the seed genes.
+* Find DNA polymorphisms that are asscoiated with altered gene expression.
+* Write a report how these candidate genes could be controling the phenotype.
 
 # Hackathon Tasks
-# Task A. Join and connect with your team.
+# Task A. Connect with your team.
 
 # Task B. Select a disease to study.
 
@@ -48,12 +51,26 @@ Find genes underlying a human disease.
 * What is the molecular function of the genes that are abnormally expressed that lead to DISEASE_X?
 * Please provide 3 hypotheses explaining how the misexpression of these genes leads the DISEASE_X.
 ```
-# Task D. Build a protein:protein interaction (PPI) network using the known gene as a seed.
 
-# Task E. Find eQTLs controlling the genes in the correct target tissue. Write a Bash script to parse eQTL file.
+# Task D. Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
+* Prometheus prompts *
+
+```
+* What is the difference between a protein:protein interaction (PPI) network and a gene co-expression network?
+* How do I find interacting proriens with a seed protein?  Use the EBI Intact database as an example.  Aslo note how one can access Intact via Cytoscape.
+* How can I visualize and analyze the PPI network?  For example, how can I determine if the networm is scale-free? Use Cytoscape as an example tool.
+* How can I find pathway and disease enrichment for these genes?  Use Toppfunn as an example. 
+```
+
+# Task E.  Find tissue-specific eQTLs DNA polymorphismsm that could alter the expression of the candidatee genes.
+
+* Prometheus prompts *
+* 
 # Task F. Write down a hypothesis that the genes caused the disease phenotype by mechanism X.  
 
-Design an experiment to test the hypothesis.
+Design an experiment to test the hypothesis.  
 
 # Task G. Write a report and send it to Feltus.
+
+
