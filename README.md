@@ -5,7 +5,7 @@
 
 A hackathon is an event, usually hosted by a tech company or organization, where programmers get together for a short period of time to collaborate on a project. The participants work [in teams] rapidly and often work without sleep to achieve their task, as the events generally only last 24 hours or take place over a weekend.  Source: https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/
 
-In this event, you will begin to unravel he genetic basis of a human disease.
+In this event, you will begin to unravel the genetic basis of a human disease.
 
 # When is the event?
 
