@@ -5,9 +5,11 @@
 
 A hackathon is an event, usually hosted by a tech company or organization, where programmers get together for a short period of time to collaborate on a project. The participants work [in teams] rapidly and often work without sleep to achieve their task, as the events generally only last 24 hours or take place over a weekend.  Source: https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/
 
-In this event, you will begin to unravel the genetic basis of a human disease.
+You have learned a lot about bionfomatics tools in this course and you have skills to perfrom in siico hypotesis testing.  In this event, you will work with a team and begin to unravel the genetic basis of a human disease.   Use any tool you want, but below are prompts that will help guide you on your journey.
 
-# When is the event?
+Basic rules:  Come to class on both days in Newnman or via Zoom. Partiicipate with your team.  Find a candidate genes and causal biomarkers
+
+# Biohackathon logistics?
 
 The biohackathon will be held on Dec 3 and Dec 5, 2024 from 8am-9.15am.  
 Physical Location: Newman Hall 104
@@ -16,9 +18,10 @@ Zoom Location: https://clemson.zoom.us/j/9452064261
 # Useful Prometheus prompts:
 
 * Prometheus prompts *
-
 ```
-* What is a complex trait?
+* What is a complex trait?  What is a Mendelian trait?
+* What does it mean to have a complex trait contolled by a genetic subsytem as opposed to a single gene?
+
 ```
 
 # Hackathon Objectives
