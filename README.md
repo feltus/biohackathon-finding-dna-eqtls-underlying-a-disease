@@ -35,100 +35,100 @@ Zoom Location: https://clemson.zoom.us/j/9452064261
 # Hackathon Tasks
 # Task A. Connect with your team. 
 
-Team 1	Abigail	Arnold	adarnol@clemson.edu
-Team 1	Olivia	Laurine	olaurin@clemson.edu
-Team 1	Benjamin	Hyland	bahylan@clemson.edu
-Team 1	Brooke	Dillingham	bvdilli@clemson.edu
-Team 1	Nicole	Cerrito	ncerrit@clemson.edu
-Team 2	Evan	Jones	etj2@clemson.edu
-Team 2	Erin	Walls	emwalls@clemson.edu
-Team 2	Kate	McCarthy	kimccar@clemson.edu
-Team 2	Noah	Hinson	nkhinso@clemson.edu
-Team 2	Mattison	Watson	mattis7@clemson.edu
-Team 3	Alyssa	Brazzell	abrazze@clemson.edu
-Team 3	Rachel	Choe	rchoe@clemson.edu
-Team 3	Morgan	Kuess	mkuess@clemson.edu
-Team 3	Lily	Brown	lcb4@clemson.edu
-Team 3	Sophia	Livigni	slivign@clemson.edu
-Team 4	Macy	Rietz	mrietz@clemson.edu
-Team 4	Carolina	Liskey	cliskey@clemson.edu
-Team 4	David	Cho	hyunwoc@clemson.edu
-Team 4	Ethan	Glover	ewglove@clemson.edu
-Team 4	Maxwell	Weingarten	mrweing@clemson.edu
-Team 5	Taylor	Nutzman	tnutzma@clemson.edu
-Team 5	Zoe	Vickery	zvicker@clemson.edu
-Team 5	Rachel	Anderson	rga@clemson.edu
-Team 5	Julia	Bertarelli	jbertar@clemson.edu
-Team 5	Emily	Bernabe	ebernab@clemson.edu
-Team 6	Rana	Al Dahabi	ranaa@clemson.edu
-Team 6	Cameron	Andes	candes@clemson.edu
-Team 6	Nicholas	Hyder	nhyder@clemson.edu
-Team 6	Margaret	Zendzian	mzendzi@clemson.edu
-Team 6	Mariclaire	Livingston	maricll@clemson.edu
-Team 7	Meg	Montgomery	mrmontg@clemson.edu
-Team 7	Aiden	Shields	apshiel@clemson.edu
-Team 7	Michelle	Dina	mdina@clemson.edu
-Team 7	Emily	Carpenter	epcarpe@clemson.edu
-Team 7	Christopher	Mann	cmann7@clemson.edu
-Team 8	Chloe	Jones	cjone27@clemson.edu
-Team 8	Rhylie	Ladoucer	gladouc@clemson.edu
-Team 8	Thomas	Caputo	tjcaput@clemson.edu
-Team 8	Pacen	Pluid	ppluid@clemson.edu
-Team 8	Ruxi	Xia	ruxix@clemson.edu
-Team 9	Emily	Willis	eew4@clemson.edu
-Team 9	Ian	Hendley	ihendle@clemson.edu
-Team 9	Gabriela	Grant	ggrant3@clemson.edu
-Team 9	Alex	McIntosh	anmcint@clemson.edu
-Team 9	Ranga	Baminiwatte	abamini@clemson.edu
-Team 10	Richard	Spohn	rspohn@clemson.edu
-Team 10	Helen	Larkin	larkin8@clemson.edu
-Team 10	Ivey	May	imay@clemson.edu
-Team 10	Kimberlee	Warren	krwarre@clemson.edu
-Team 10	Zoe	Swatland	zswatla@clemson.edu
-Team 11	Roger	Zhang	ruikanz@clemson.edu
-Team 11	Stephanie	Creasi	screasi@clemson.edu
-Team 11	Mary	Flowers	mgflowe@clemson.edu
-Team 11	Lauren	Cassin	lcassin@clemson.edu
-Team 11	Riley	Reyes	rreyes2@clemson.edu
-Team 12	Daniela	Macias Skipper	dmacias@clemson.edu
-Team 12	Kaitlyn	Hall	keh3@clemson.edu
-Team 12	Lexie	Kidd	abkidd@clemson.edu
-Team 12	Zack	Verdin	zverdin@clemson.edu
-Team 12	Amey	Barakat	ameyb@clemson.edu
-Team 13	Ella	Prewett	eprewet@clemson.edu
-Team 13	Addison	Ruth	ruth4@clemson.edu
-Team 13	Sarah	Hashempour	hashemp@clemson.edu
-Team 13	Meghan	McDonough	mamcdng@clemson.edu
-Team 13	Lucy	Edwards	ledwar5@clemson.edu
-Team 14	Belol	Emenov	bemenov@clemson.edu
-Team 14	Eli	Verdin	everdin@clemson.edu
-Team 14	Maggie	Klein	mklein2@clemson.edu
-Team 14	Shamaya	Whitby	swhitby@clemson.edu
-Team 14	Sadin	Aldabaibeh	saldaba@clemson.edu
-Team 15	Adam	Gatch	agatch@clemson.edu
-Team 15	Will	Mcintyre	wrmcint@clemson.edu
-Team 15	Kenzie	Kramer	mjkrame@clemson.edu
-Team 15	Michaela	Mulvey	mmulvey@clemson.edu
-Team 15	Eve	Joseph	evej@clemson.edu
-Team 16	Jessica	Rafael	jrafael@clemson.edu
-Team 16	Wendy	Zhang	wendyz@clemson.edu
-Team 16	Erica	Fuhrmann	efuhrma@clemson.edu
-Team 16	Yashvi	Patel	yrpatel@clemson.edu
-Team 16	Ally	Brawner	brawner@clemson.edu
-Team 17	Mya	Jones	mya4@clemson.edu
-Team 17	Abigail	Flores	aflore2@clemson.edu
-Team 17	Aidan	Sievers	asiever@clemson.edu
-Team 17	Arden	Dougherty	acdough@clemson.edu
-Team 17	Emilia	Owocki	eowocki@clemson.edu
-Team 18	Lucy	Mulligan	lwmulli@clemson.edu
-Team 18	Cam	Stetson	cstetso@clemson.edu
-Team 18	Konnor	Mcdowell	konnor@clemson.edu
-Team 18	Lily	Harshaw	lharsha@clemson.edu
-Team 18	Blessing	Torsu 	btorsu@clemson.edu
-Team 19	Jennifer	Anasky	janasky@clemson.edu
-Team 19	Samantha	McDonnell	mcdonn8@clemson.edu
-Team 19	Pranavi	Mallipeddi	pmallip@clemson.edu
-Team 19	Tripti	Paudyal	tpaudya@clemson.edu
+* Team 1	Abigail	Arnold	adarnol@clemson.edu
+* Team 1	Olivia	Laurine	olaurin@clemson.edu
+* Team 1	Benjamin	Hyland	bahylan@clemson.edu
+* Team 1	Brooke	Dillingham	bvdilli@clemson.edu
+* Team 1	Nicole	Cerrito	ncerrit@clemson.edu
+* Team 2	Evan	Jones	etj2@clemson.edu
+* Team 2	Erin	Walls	emwalls@clemson.edu
+* Team 2	Kate	McCarthy	kimccar@clemson.edu
+* Team 2	Noah	Hinson	nkhinso@clemson.edu
+* Team 2	Mattison	Watson	mattis7@clemson.edu
+* Team 3	Alyssa	Brazzell	abrazze@clemson.edu
+* Team 3	Rachel	Choe	rchoe@clemson.edu
+* Team 3	Morgan	Kuess	mkuess@clemson.edu
+* Team 3	Lily	Brown	lcb4@clemson.edu
+* Team 3	Sophia	Livigni	slivign@clemson.edu
+* Team 4	Macy	Rietz	mrietz@clemson.edu
+* Team 4	Carolina	Liskey	cliskey@clemson.edu
+* Team 4	David	Cho	hyunwoc@clemson.edu
+* Team 4	Ethan	Glover	ewglove@clemson.edu
+* Team 4	Maxwell	Weingarten	mrweing@clemson.edu
+* Team 5	Taylor	Nutzman	tnutzma@clemson.edu
+* Team 5	Zoe	Vickery	zvicker@clemson.edu
+* Team 5	Rachel	Anderson	rga@clemson.edu
+* Team 5	Julia	Bertarelli	jbertar@clemson.edu
+* Team 5	Emily	Bernabe	ebernab@clemson.edu
+* Team 6	Rana	Al Dahabi	ranaa@clemson.edu
+* Team 6	Cameron	Andes	candes@clemson.edu
+* Team 6	Nicholas	Hyder	nhyder@clemson.edu
+* Team 6	Margaret	Zendzian	mzendzi@clemson.edu
+* Team 6	Mariclaire	Livingston	maricll@clemson.edu
+* Team 7	Meg	Montgomery	mrmontg@clemson.edu
+* Team 7	Aiden	Shields	apshiel@clemson.edu
+* Team 7	Michelle	Dina	mdina@clemson.edu
+* Team 7	Emily	Carpenter	epcarpe@clemson.edu
+* Team 7	Christopher	Mann	cmann7@clemson.edu
+* Team 8	Chloe	Jones	cjone27@clemson.edu
+* Team 8	Rhylie	Ladoucer	gladouc@clemson.edu
+* Team 8	Thomas	Caputo	tjcaput@clemson.edu
+* Team 8	Pacen	Pluid	ppluid@clemson.edu
+* Team 8	Ruxi	Xia	ruxix@clemson.edu
+* Team 9	Emily	Willis	eew4@clemson.edu
+* Team 9	Ian	Hendley	ihendle@clemson.edu
+* Team 9	Gabriela	Grant	ggrant3@clemson.edu
+* Team 9	Alex	McIntosh	anmcint@clemson.edu
+* Team 9	Ranga	Baminiwatte	abamini@clemson.edu
+* Team 10	Richard	Spohn	rspohn@clemson.edu
+* Team 10	Helen	Larkin	larkin8@clemson.edu
+* Team 10	Ivey	May	imay@clemson.edu
+* Team 10	Kimberlee	Warren	krwarre@clemson.edu
+* Team 10	Zoe	Swatland	zswatla@clemson.edu
+* Team 11	Roger	Zhang	ruikanz@clemson.edu
+* Team 11	Stephanie	Creasi	screasi@clemson.edu
+* Team 11	Mary	Flowers	mgflowe@clemson.edu
+* Team 11	Lauren	Cassin	lcassin@clemson.edu
+* Team 11	Riley	Reyes	rreyes2@clemson.edu
+* Team 12	Daniela	Macias Skipper	dmacias@clemson.edu
+* Team 12	Kaitlyn	Hall	keh3@clemson.edu
+* Team 12	Lexie	Kidd	abkidd@clemson.edu
+* Team 12	Zack	Verdin	zverdin@clemson.edu
+* Team 12	Amey	Barakat	ameyb@clemson.edu
+* Team 13	Ella	Prewett	eprewet@clemson.edu
+* Team 13	Addison	Ruth	ruth4@clemson.edu
+* Team 13	Sarah	Hashempour	hashemp@clemson.edu
+* Team 13	Meghan	McDonough	mamcdng@clemson.edu
+* Team 13	Lucy	Edwards	ledwar5@clemson.edu
+* Team 14	Belol	Emenov	bemenov@clemson.edu
+* Team 14	Eli	Verdin	everdin@clemson.edu
+* Team 14	Maggie	Klein	mklein2@clemson.edu
+* Team 14	Shamaya	Whitby	swhitby@clemson.edu
+* Team 14	Sadin	Aldabaibeh	saldaba@clemson.edu
+* Team 15	Adam	Gatch	agatch@clemson.edu
+* Team 15	Will	Mcintyre	wrmcint@clemson.edu
+* Team 15	Kenzie	Kramer	mjkrame@clemson.edu
+* Team 15	Michaela	Mulvey	mmulvey@clemson.edu
+* Team 15	Eve	Joseph	evej@clemson.edu
+* Team 16	Jessica	Rafael	jrafael@clemson.edu
+* Team 16	Wendy	Zhang	wendyz@clemson.edu
+* Team 16	Erica	Fuhrmann	efuhrma@clemson.edu
+* Team 16	Yashvi	Patel	yrpatel@clemson.edu
+* Team 16	Ally	Brawner	brawner@clemson.edu
+* Team 17	Mya	Jones	mya4@clemson.edu
+* Team 17	Abigail	Flores	aflore2@clemson.edu
+* Team 17	Aidan	Sievers	asiever@clemson.edu
+* Team 17	Arden	Dougherty	acdough@clemson.edu
+* Team 17	Emilia	Owocki	eowocki@clemson.edu
+* Team 18	Lucy	Mulligan	lwmulli@clemson.edu
+* Team 18	Cam	Stetson	cstetso@clemson.edu
+* Team 18	Konnor	Mcdowell	konnor@clemson.edu
+* Team 18	Lily	Harshaw	lharsha@clemson.edu
+* Team 18	Blessing	Torsu 	btorsu@clemson.edu
+* Team 19	Jennifer	Anasky	janasky@clemson.edu
+* Team 19	Samantha	McDonnell	mcdonn8@clemson.edu
+* Team 19	Pranavi	Mallipeddi	pmallip@clemson.edu
+* Team 19	Tripti	Paudyal	tpaudya@clemson.edu
 
 # Task B. Select a disease to study.
 
