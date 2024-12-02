@@ -167,6 +167,7 @@ Zoom Location: https://clemson.zoom.us/j/9452064261
 * Prometheus prompts *
 
 ```
+What is an eQTL?  Please explain in the context of the human organism.
 How do I find eQTLs associated with genes using the GTEx project?  Please provide an example using breast tissue on eQTLs that control BRCA1 expression.
 
 ```
@@ -180,14 +181,15 @@ Design an experiment to test the hypothesis that your PPI genetic subsytem netwo
 
 ```
 * How do I create a git repository at github?  How do I add a license and make it public?
+* What are the basics of github markdown language?
 * Provide a basic overview of the github markdown language.
 ```
 
-* Github repository products.
+* Github repository products *
  
-* Make a git repository.  
-* Write a report on your project using the github README file and github markdown language.
+* Make a git repository and make all teammates members.  
+* Write a technical report on your project using the github README file in the github markdown language.
 * Include any code in the github repository as a separate file (text file, Jupyter Notebook, etc.)
-* Include a Cytoscape file of your network.
-* Add a file of your teammates and what they did in the project.  If someone didn't participate, note that in the file.
+* Include a Cytoscape file of your PPI network in the github repo.
+* Add a plain text file to the github repo listing teammates and what they did in the project.  If someone didn't participate, note that in the file.
 * Send the github link to Feltus by December 11 at noon EDT.
