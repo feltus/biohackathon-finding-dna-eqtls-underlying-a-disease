@@ -134,7 +134,7 @@ Zoom Location: https://clemson.zoom.us/j/9452064261
 
 * Prometheus prompts *
 ```
-* Provide an overview of DISEASE_X from a clinical perspective.  Be specific on symptoms, diagnostic & * prognostic criteria.
+* Provide an overview of DISEASE_X from a clinical perspective.  Be specific on symptoms, diagnostic & prognostic criteria.
 * What are the frontline treatments for DISEASE_X?  What are the criteria for a successful treatment and what are options if the frontline therapy fails?
 * From a physiology perspective, what organs are involved in expression of DISEASE_X?
 ```
