@@ -3,9 +3,9 @@
 
 # Biohackathon Overview
 
-A hackathon is an event, usually hosted by a tech company or organization, where programmers get together for a short period of time to collaborate on a project. The participants work [in teams] rapidly and often work without sleep to achieve their task, as the events generally only last 24 hours or take place over a weekend.  Source: https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/
+A hackathon is an event, usually hosted by a tech company or organization, where creatives get together for a short period of time to collaborate on a technical project. The participants work [in teams] rapidly and often work without sleep to achieve their task, as the events generally only last 24 hours or take place over a weekend.  Source: https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/
 
-You have learned a lot about bioinformatics tools in this course and you have skills to perform in silico hypothesis testing.  In this event, you will work with a team and begin to unravel the genetic basis of a human disease.   Use any tool you want, but below are prompts that will help guide you on your journey.
+You have learned a lot about bioinformatics tools in this course and you have skills to perform in silico hypothesis testing.  In this event, you will work with a team and begin to unravel the genetic and biochemical basis of a human disease.   Use any tool you want, but below are prompts that will help guide you on your journey.
 
 Basic rules:  Come to class on both days in Newman or via Zoom. Participate with your team.  Find candidate genes and causal biomarkers. Report your results via github.
 
