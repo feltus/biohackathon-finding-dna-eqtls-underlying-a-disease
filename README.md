@@ -13,7 +13,7 @@ Basic rules:  Come to class on both days in Newman or via Zoom. Participate with
 
 The biohackathon will be held on Dec 3 and Dec 5, 2024 from 8am-9.15am.  
 Physical Location: Newman Hall 104
-Zoom Location: https://clemson.zoom.us/j/9452064261
+Zoom Location: TBD
 
 # Useful Prometheus prompts:
 
@@ -35,6 +35,7 @@ Zoom Location: https://clemson.zoom.us/j/9452064261
 # Hackathon Tasks
 # Task A. Connect with your team. 
 
+<LIST TEAMS HERE>
 
 # Task B. Select a disease to study.
 
