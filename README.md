@@ -15,7 +15,7 @@ The biohackathon will be held on Dec 3 and Dec 5, 2024 from 8am-9.15am.
 Physical Location: Newman Hall 104
 Zoom Location: TBD
 
-# Useful Prometheus prompts:
+# Background knowledge prompts:
 
 * Prometheus prompts *
 ```
